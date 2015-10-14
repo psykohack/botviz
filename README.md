@@ -1,5 +1,5 @@
 # botviz
-![alt tag](http://glob.ml/viz.png)
+![alt tag](http://glob.ml/viz2.png)
 
 Bot Visualization
 
