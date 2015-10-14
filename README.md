@@ -1,5 +1,5 @@
 # botviz
-![alt tag](http://glob.ml/viz.png)
+
 
 Bot Visualization
 
@@ -15,4 +15,4 @@ The connections between circles represents the interaction between users.
 
 The stroke width of the lines represent the number of messages sent between users.
 
-The users that have less interaction with others are moved to one side of the graphic and the ones that have a lot of interaction are un the other side.
+The users that have less interaction with others are moved to one side of the graphic and the ones that have a lot of interaction are in the other side.
